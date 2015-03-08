@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DeformaWebService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DeformaWebService.war">
+      <element id="artifact" artifact-name="DeformaWebService:war exploded" />
+    </root>
+  </artifact>
+</component>
